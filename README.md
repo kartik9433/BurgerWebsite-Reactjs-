@@ -36,6 +36,7 @@ Contact and order interface
 
 ![Burger](https://github.com/kartik9433/BurgerWebsite-Reactjs-/blob/6c674cface3e1dc977ab755ef5b76175b7a440f9/Screenshot%202025-09-14%20110724.png)
 
+![Burger Website Screenshot](https://github.com/kartik9433/BurgerWebsite-Reactjs-/raw/fbec0f01c1e4d35ba1e97654aa911f5872de2c31/Screenshot%202025-09-14%20110747.png)
 
 # BurgerWebsite-Reactjs-
 Frontend website using React js
