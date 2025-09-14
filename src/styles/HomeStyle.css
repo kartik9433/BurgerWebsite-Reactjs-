@@ -1,0 +1,153 @@
+.hero_section{
+    position:  relative;
+    background: url("../assests/hero/hero-1.jpg");
+    background-size: cover;
+    background-attachment:fixed;
+    padding-top: 170px ;
+    padding-bottom:90px;
+}
+.hero_section .price_badge{
+          background: url(../assests/hero/price-badge-yellow.png)no-repeat center center;
+          background-size: cover;
+          position: absolute;
+            top: -20px;
+            right: 5px;
+            width: 170px;
+            height: 170px;
+            text-align: center;
+}
+.hero_section .badge_text{
+    position: absolute;
+    top: 42px;
+    left: 40px;
+}
+
+.hero_section .hero_text h1{
+  font-family: var(--lilita-font);
+  font-size: 7rem;
+  line-height: 1;
+  margin-bottom: 15px;
+  letter-spacing: 3px;
+}
+.hero_section .hero_text h2{
+  font-family: var(--lilita-font);
+  font-size: 2.5rem;
+  line-height: 1;
+  margin-bottom: 10px;
+  letter-spacing: 3px;
+}
+
+.about_section{
+  padding-top: 80px;
+  padding-bottom:300px;
+  background:url("../assests/about/about-1.jpg") no-repeat center center;
+  background-size: cover;
+  width: 100%;
+}
+.about_section h2{
+  font-size: 50px;
+  letter-spacing: 2px;
+}
+.about_section p{
+  padding-top: 10px;
+  font-size: small;
+  letter-spacing: 2px;
+}
+.about_section .order_now{
+      margin-top: 20px;
+}
+.about_section .order_now:hover{
+    background-color: aqua !important;
+    width: 12.5rem;
+    height:2.4rem;
+    border: none;
+    color: black;
+    font-weight:700 ;
+}
+.about_wrapper{
+  padding-top: 20px;
+    img{
+      width: 25%;
+      height: 25%;
+    }
+    h4{
+      padding-top: .625rem;
+    }
+    p{
+      padding-top: 10px;
+      line-height: 14px;
+      letter-spacing: 1px;
+      font-style: italic;
+      font-size: small;
+    }
+}
+
+
+/*Sectionn3*/
+
+.menu_section{
+  margin-top: 40px; 
+}
+.menu_section h2{
+  margin-left:170px ;
+  font-weight: 800;
+  font-size: 40px;
+}
+.menu_section p{
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.menu_section .ads_box{
+  height: 300px;
+}
+.menu_section .ads_img1{
+    background: url("../assests/menu/ads-1.jpg");
+    background-size: cover  ;
+}
+.menu_section .ads_img2{
+   background: url("../assests/menu/ads-2.jpg");
+}
+
+.menu_section .ads_box h4{
+  margin-left: 48%;
+  padding-top: 20px;
+  font-weight: 800;
+  font-size:56px;
+}
+.menu_section .ads_box h5{
+  margin-left: 50%;
+  padding-top: 12px;
+  margin-top: 11px;
+  font-size: large;
+  letter-spacing: 10px;
+}
+.menu_section .btn_red{
+  position:relative;
+  left: 250px;
+  width: 150px;
+  margin-top: 15px;
+  border: none;
+  color: aliceblue;
+  &:hover{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 105px;
+  }
+}
+
+ .promotion_section{
+  margin-top: 40px;
+ }
+ 
+ body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.shope_section{
+  margin-top: 60px;
+  
+}
